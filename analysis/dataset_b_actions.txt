@@ -1,0 +1,176 @@
+=== ROUTE: /payroll-items ===
+Visits: 43
+Clipboard Changes: 307
+Top Apps:
+  Microsoft Edge: 4913
+  OpenWith: 689
+  Microsoft Excel: 437
+  Notepad: 351
+  Microsoft Word: 264
+Top Window Titles:
+  HR人事給与システム and 1 more page - Profile 1 - Microsoft​ Edge: 1096
+  HR人事給与システム - Profile 1 - Microsoft​ Edge: 882
+  財務会計システム - Profile 1 - Microsoft​ Edge: 664
+  財務会計システム and 1 more page - Profile 1 - Microsoft​ Edge: 587
+  受発注在庫管理システム and 1 more page - Profile 1 - Microsoft​ Edge: 517
+Top Browser Clicks:
+  btn-pi-ok: 240
+  pi-note: 239
+  side: 3
+  alert-box amber: 2
+  panel-head: 1
+Top Form Inputs:
+
+=== ROUTE: /leave-applications ===
+Visits: 37
+Clipboard Changes: 191
+Top Apps:
+  Microsoft Edge: 2620
+  Microsoft Word: 1602
+  Microsoft Excel: 73
+  Notepad: 21
+  Windows Explorer: 14
+Top Window Titles:
+  受発注在庫管理システム - Profile 1 - Microsoft​ Edge: 749
+  HR人事給与システム - Profile 1 - Microsoft​ Edge: 664
+  keiyaku_kaijo_tetsuzuki  -  Compatibility Mode - Word: 514
+  settai_keihi_kitei  -  Compatibility Mode - Word: 329
+  財務会計システム - Profile 1 - Microsoft​ Edge: 295
+Top Browser Clicks:
+  la-note: 146
+  btn-la-ok: 146
+  alert-box amber: 8
+  side: 1
+Top Form Inputs:
+
+=== ROUTE: / ===
+Visits: 28
+Clipboard Changes: 1
+Top Apps:
+  Microsoft Edge: 128
+  Microsoft Word: 33
+  ms-teams: 5
+  procmine-desktop-agent: 5
+  Notepad: 5
+Top Window Titles:
+  受発注在庫管理システム - Profile 1 - Microsoft​ Edge: 54
+  Turn off extensions in developer mode: 31
+  受発注在庫管理システム and 1 more page - Profile 1 - Microsoft​ Edge: 26
+  gyomu_itaku_keihi_kitei  -  Compatibility Mode - Word: 18
+  財務会計システム - Profile 1 - Microsoft​ Edge: 8
+Top Browser Clicks:
+  main: 4
+Top Form Inputs:
+
+=== ROUTE: /social-insurance ===
+Visits: 26
+Clipboard Changes: 103
+Top Apps:
+  Microsoft Edge: 1614
+  Microsoft Excel: 497
+  Microsoft Word: 189
+  Notepad: 132
+  OpenWith: 33
+Top Window Titles:
+  受発注在庫管理システム - Profile 1 - Microsoft​ Edge: 564
+  budget_analysis - Excel: 491
+  HR人事給与システム - Profile 1 - Microsoft​ Edge: 422
+  受発注在庫管理システム and 1 more page - Profile 1 - Microsoft​ Edge: 227
+  財務会計システム - Profile 1 - Microsoft​ Edge: 195
+Top Browser Clicks:
+  si-note: 82
+  btn-si-ok: 82
+Top Form Inputs:
+
+=== ROUTE: /onboarding ===
+Visits: 24
+Clipboard Changes: 137
+Top Apps:
+  Microsoft Edge: 1852
+  Microsoft Word: 1375
+  Microsoft Excel: 121
+  OpenWith: 35
+  WindowsTerminal: 15
+Top Window Titles:
+  HR人事給与システム - Profile 1 - Microsoft​ Edge: 737
+  nyusha_checklist_shinsotsu_batch  -  Compatibility Mode - Word: 424
+  財務会計システム - Profile 1 - Microsoft​ Edge: 414
+  gyomu_itaku_kyuuyo_kitei  -  Compatibility Mode - Word: 399
+  財務会計システム and 1 more page - Profile 1 - Microsoft​ Edge: 226
+Top Browser Clicks:
+  ob-note: 92
+  btn-ob-ok: 92
+  nav-link: 1
+  panel-body: 1
+Top Form Inputs:
+
+=== ROUTE: /favicon.ico ===
+Visits: 23
+Clipboard Changes: 0
+Top Apps:
+  Microsoft Edge: 39
+  ms-teams: 17
+  Notepad: 4
+  WindowsTerminal: 3
+Top Window Titles:
+  受発注在庫管理システム - Profile 1 - Microsoft​ Edge: 21
+  Settings | Microsoft Teams: 17
+  Turn off extensions in developer mode: 9
+  受発注在庫管理システム and 1 more page - Profile 1 - Microsoft​ Edge: 7
+  Windows PowerShell: 3
+Top Browser Clicks:
+Top Form Inputs:
+
+=== ROUTE: /resident-tax ===
+Visits: 21
+Clipboard Changes: 70
+Top Apps:
+  Microsoft Edge: 1228
+  Microsoft Word: 75
+  WindowsTerminal: 16
+  prl_cc: 8
+  ms-teams: 3
+Top Window Titles:
+  財務会計システム - Profile 1 - Microsoft​ Edge: 718
+  財務会計システム and 1 more page - Profile 1 - Microsoft​ Edge: 292
+  財務会計システム and 2 more pages - Profile 1 - Microsoft​ Edge: 204
+  shinkuitorihikisaki_touroku_tetsuzuki  -  Compatibility Mode - Word: 44
+  shinkuitorihikisaki_touroku_tetsuzuki [Compatibility Mode] - Word: 20
+Top Browser Clicks:
+  rt-note: 69
+  btn-rt-ok: 69
+  rt-table: 1
+Top Form Inputs:
+
+=== ROUTE: /dashboard ===
+Visits: 21
+Clipboard Changes: 0
+Top Apps:
+  procmine-desktop-agent: 195
+  Microsoft Edge: 133
+  Microsoft Word: 42
+  WindowsTerminal: 41
+  Notepad: 22
+Top Window Titles:
+  ProcMine Agent: 195
+  Windows PowerShell: 41
+  財務会計システム - Profile 1 - Microsoft​ Edge: 30
+  受発注在庫管理システム - Profile 1 - Microsoft​ Edge: 29
+  *精算確認メモ - Notepad: 21
+Top Browser Clicks:
+Top Form Inputs:
+
+=== ROUTE: /client/T016EU6KJDN/activity-inbox ===
+Visits: 6
+Clipboard Changes: 0
+Top Apps:
+  Microsoft Edge: 36
+Top Window Titles:
+  HR人事給与システム - Profile 1 - Microsoft​ Edge: 14
+  受発注在庫管理システム - Profile 1 - Microsoft​ Edge: 12
+  受発注在庫管理システム and 1 more page - Profile 1 - Microsoft​ Edge: 7
+  Untitled - Profile 1 - Microsoft​ Edge: 2
+  Untitled and 1 more page - Profile 1 - Microsoft​ Edge: 1
+Top Browser Clicks:
+Top Form Inputs:
+
