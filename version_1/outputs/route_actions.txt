@@ -1,0 +1,356 @@
+=== ROUTE: /leave-applications ===
+Visits: 339
+Avg Duration: 49.70 s
+Clipboard Changes: 1013
+Top Apps:
+  Google Chrome: 21577
+  Notepad: 5431
+  Microsoft Word: 4370
+  Windows Explorer: 449
+  Microsoft Excel: 107
+Top Window Titles:
+  財務会計システム - Google Chrome: 7897
+  受発注在庫管理システム - Google Chrome: 6980
+  HR人事給与システム - Google Chrome: 6667
+  *Untitled - Notepad: 4013
+  HR_Policy  -  Compatibility Mode - Word: 1407
+Top Event Types:
+  app_switch: 10361
+  screenshot_smart: 7011
+  keystroke: 7004
+  shortcut: 2688
+  mouse_click: 1165
+Top Browser Clicks:
+  btn-la-approve: 384
+  la-note: 382
+  main: 4
+  actions: 2
+Top Form Inputs:
+Top Shortcuts:
+
+=== ROUTE: /resident-tax ===
+Visits: 333
+Avg Duration: 39.21 s
+Clipboard Changes: 1212
+Top Apps:
+  Google Chrome: 25880
+  Notepad: 5457
+  Microsoft Excel: 221
+  Windows Explorer: 216
+  WindowsTerminal: 157
+Top Window Titles:
+  財務会計システム - Google Chrome: 10115
+  HR人事給与システム - Google Chrome: 8823
+  受発注在庫管理システム - Google Chrome: 6911
+  *Untitled - Notepad: 4014
+  *Inventory catalog metrics - Notepad: 618
+Top Event Types:
+  app_switch: 9197
+  keystroke: 8058
+  screenshot_smart: 6785
+  shortcut: 3152
+  clipboard_change: 1212
+Top Browser Clicks:
+  rt-note: 383
+  btn-rt-confirm: 287
+  btn-rt-query: 97
+  panel-body: 3
+  panel: 1
+  body: 1
+  panel-head: 1
+Top Form Inputs:
+Top Shortcuts:
+
+=== ROUTE: /payroll-items ===
+Visits: 293
+Avg Duration: 37.73 s
+Clipboard Changes: 611
+Top Apps:
+  Google Chrome: 20521
+  Notepad: 1394
+  Windows Explorer: 293
+  WindowsTerminal: 171
+  Microsoft PowerPoint: 76
+Top Window Titles:
+  財務会計システム - Google Chrome: 7152
+  受発注在庫管理システム - Google Chrome: 6922
+  HR人事給与システム - Google Chrome: 6416
+  *Untitled - Notepad: 982
+  documents - File Explorer: 283
+Top Event Types:
+  app_switch: 6334
+  keystroke: 5378
+  screenshot_smart: 5106
+  shortcut: 1933
+  browser_click: 999
+Top Browser Clicks:
+  pi-note: 331
+  btn-pi-register: 331
+  main: 2
+  panel-body: 2
+Top Form Inputs:
+Top Shortcuts:
+
+=== ROUTE: /social-insurance ===
+Visits: 277
+Avg Duration: 58.11 s
+Clipboard Changes: 1018
+Top Apps:
+  Google Chrome: 11122
+  Notepad: 10011
+  Microsoft PowerPoint: 2558
+  Windows Explorer: 146
+  ms-teams: 88
+Top Window Titles:
+  *Untitled - Notepad: 6956
+  受発注在庫管理システム - Google Chrome: 3979
+  HR人事給与システム - Google Chrome: 3813
+  財務会計システム - Google Chrome: 3293
+  Budget_Report - PowerPoint: 2368
+Top Event Types:
+  app_switch: 9363
+  screenshot_smart: 5187
+  keystroke: 3998
+  shortcut: 1495
+  clipboard_change: 1018
+Top Browser Clicks:
+  si-note: 294
+  btn-si-complete: 294
+  main: 3
+  side: 1
+  panel-head: 1
+Top Form Inputs:
+Top Shortcuts:
+
+=== ROUTE: /onboarding ===
+Visits: 248
+Avg Duration: 35.91 s
+Clipboard Changes: 863
+Top Apps:
+  Google Chrome: 18605
+  Notepad: 4132
+  Windows Explorer: 251
+  olk: 60
+  Microsoft Excel: 59
+Top Window Titles:
+  HR人事給与システム - Google Chrome: 6572
+  受発注在庫管理システム - Google Chrome: 6327
+  財務会計システム - Google Chrome: 5706
+  *Untitled - Notepad: 3046
+  *Inventory catalog metrics - Notepad: 384
+Top Event Types:
+  app_switch: 6407
+  keystroke: 5944
+  screenshot_smart: 4970
+  shortcut: 2301
+  clipboard_change: 863
+Top Browser Clicks:
+  ob-note: 281
+  btn-ob-complete: 189
+  btn-ob-flag: 93
+  main: 2
+  side: 1
+Top Form Inputs:
+Top Shortcuts:
+
+=== ROUTE: /sso-mock.html ===
+Visits: 88
+Avg Duration: 4.52 s
+Clipboard Changes: 0
+Top Apps:
+  Google Chrome: 3037
+Top Window Titles:
+  ProcMine SSO — シングルサインオン - Google Chrome: 2805
+  財務会計システム - Google Chrome: 125
+  受発注在庫管理システム - Google Chrome: 105
+  HR人事給与システム - Google Chrome: 2
+Top Event Types:
+  keystroke: 2022
+  app_switch: 413
+  screenshot_smart: 272
+  mouse_click: 58
+  text_input_complete: 57
+Top Browser Clicks:
+  uid: 41
+  pwd: 14
+Top Form Inputs:
+Top Shortcuts:
+
+=== ROUTE: /dashboard ===
+Visits: 66
+Avg Duration: 51.80 s
+Clipboard Changes: 5
+Top Apps:
+  Google Chrome: 440
+  Windows Explorer: 340
+  WindowsTerminal: 255
+  Notepad: 105
+  procmine-desktop-agent: 75
+Top Window Titles:
+  Windows PowerShell: 255
+  HR人事給与システム - Google Chrome: 183
+  Task Switching: 152
+  財務会計システム - Google Chrome: 127
+  受発注在庫管理システム - Google Chrome: 114
+Top Event Types:
+  screenshot_smart: 347
+  app_switch: 294
+  keystroke: 215
+  browser_navigation: 172
+  extension_disconnected: 141
+Top Browser Clicks:
+Top Form Inputs:
+Top Shortcuts:
+
+=== ROUTE: / ===
+Visits: 48
+Avg Duration: 46.37 s
+Clipboard Changes: 40
+Top Apps:
+  Google Chrome: 1985
+  Notepad: 465
+  Microsoft Excel: 247
+  Microsoft Word: 138
+  WindowsTerminal: 25
+Top Window Titles:
+  HR人事給与システム - Google Chrome: 656
+  財務会計システム - Google Chrome: 588
+  受発注在庫管理システム - Google Chrome: 474
+  *SETUP.md - Notepad: 404
+  ProcMine SSO — シングルサインオン - Google Chrome: 208
+Top Event Types:
+  app_switch: 938
+  keystroke: 806
+  screenshot_smart: 573
+  shortcut: 248
+  mouse_click: 112
+Top Browser Clicks:
+Top Form Inputs:
+Top Shortcuts:
+
+=== ROUTE: /service/kounen/hokenryo-kankei/hyojun-hoshu/index.html ===
+Visits: 10
+Avg Duration: 58.40 s
+Clipboard Changes: 0
+Top Apps:
+  Google Chrome: 140
+Top Window Titles:
+  受発注在庫管理システム - Google Chrome: 77
+  お探しのページが見つかりません（Not Found）｜日本年金機構 - Google Chrome: 24
+  HR人事給与システム - Google Chrome: 24
+  財務会計システム - Google Chrome: 15
+Top Event Types:
+  app_switch: 81
+  screenshot_smart: 34
+  browser_alert: 9
+  extension_disconnected: 9
+  browser_navigation: 8
+Top Browser Clicks:
+Top Form Inputs:
+Top Shortcuts:
+
+=== ROUTE: /error/404.htm ===
+Visits: 8
+Avg Duration: 46.67 s
+Clipboard Changes: 0
+Top Apps:
+  Google Chrome: 104
+Top Window Titles:
+  受発注在庫管理システム - Google Chrome: 45
+  HR人事給与システム - Google Chrome: 35
+  指定されたページを表示できませんでした - Google Chrome: 18
+  財務会計システム - Google Chrome: 4
+  Untitled - Google Chrome: 2
+Top Event Types:
+  app_switch: 60
+  screenshot_smart: 24
+  browser_navigation: 6
+  browser_alert: 6
+  browser_tab_event: 6
+Top Browser Clicks:
+Top Form Inputs:
+Top Shortcuts:
+
+=== ROUTE: /client/T016EU6KJDN/activity-inbox ===
+Visits: 8
+Avg Duration: 17.85 s
+Clipboard Changes: 1
+Top Apps:
+  Google Chrome: 70
+  Windows Explorer: 48
+  procmine-desktop-agent: 25
+Top Window Titles:
+  Activity - Imbesideyou - 1 new item - Slack - Google Chrome: 54
+  Task Switching: 31
+  ProcMine Agent: 25
+  gt-logs - File Explorer: 8
+  指定されたページを表示できませんでした - Google Chrome: 6
+Top Event Types:
+  keystroke: 40
+  screenshot_smart: 32
+  app_switch: 28
+  shortcut: 10
+  mouse_click: 8
+Top Browser Clicks:
+Top Form Inputs:
+Top Shortcuts:
+
+=== ROUTE: /I-mBesideYou/procmine-test-sets/blob/main/Mixed/theme_m1_data/process_automation/SETUP.md ===
+Visits: 7
+Avg Duration: 0.02 s
+Clipboard Changes: 0
+Top Apps:
+  Google Chrome: 10
+Top Window Titles:
+  指定されたページを表示できませんでした - Google Chrome: 6
+  procmine-test-sets/Mixed/theme_m1_data/process_automation/SETUP.md at main · I-mBesideYou/procmine-test-sets - Google Chrome: 4
+Top Event Types:
+  browser_navigation: 3
+  screenshot_smart: 3
+  browser_tab_event: 2
+  browser_alert: 2
+Top Browser Clicks:
+Top Form Inputs:
+Top Shortcuts:
+
+=== ROUTE: /utr-nmcq-gmk ===
+Visits: 6
+Avg Duration: 0.26 s
+Clipboard Changes: 0
+Top Apps:
+  Google Chrome: 16
+Top Window Titles:
+  Untitled - Google Chrome: 8
+  HR人事給与システム - Google Chrome: 5
+  指定されたページを表示できませんでした - Google Chrome: 3
+Top Event Types:
+  app_switch: 9
+  screenshot_smart: 4
+  window_title_change: 1
+  extension_connected: 1
+  browser_navigation: 1
+Top Browser Clicks:
+Top Form Inputs:
+Top Shortcuts:
+
+=== ROUTE: /stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/index.html ===
+Visits: 5
+Avg Duration: 72.80 s
+Clipboard Changes: 0
+Top Apps:
+  Google Chrome: 79
+Top Window Titles:
+  財務会計システム - Google Chrome: 55
+  事業主の方へ ｜厚生労働省 - Google Chrome: 16
+  HR人事給与システム - Google Chrome: 5
+  Untitled - Google Chrome: 3
+Top Event Types:
+  app_switch: 43
+  screenshot_smart: 18
+  browser_tab_event: 6
+  browser_navigation: 5
+  browser_alert: 5
+Top Browser Clicks:
+Top Form Inputs:
+Top Shortcuts:
+
