@@ -5,7 +5,7 @@ from collections import Counter, defaultdict
 
 
 DATASET = Path("dataset_a")
-OUTPUT_FILE = Path("route_analysis.txt")
+OUTPUT_FILE = Path("version_1/outputs/route_analysis.txt")
 
 
 def get_url(event):

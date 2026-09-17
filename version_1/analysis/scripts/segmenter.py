@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 from datetime import datetime
 
 DATASET_B = Path("dataset_b")
-OUTPUT_FILE = Path("segments.jsonl")
+OUTPUT_FILE = Path("version_1/outputs/segments.jsonl")
 
 def get_url(event):
     payload = event.get("payload")

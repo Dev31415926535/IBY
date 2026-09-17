@@ -4,7 +4,7 @@ from collections import defaultdict
 from datetime import datetime
 
 DATASET = Path("dataset_a")
-OUTPUT_FILE = Path("analysis/ground_truth_analysis.txt")
+OUTPUT_FILE = Path("version_1/outputs/ground_truth_analysis.txt")
 
 def parse_time(ts_str):
     if not ts_str: return None

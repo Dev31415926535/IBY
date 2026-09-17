@@ -12,7 +12,7 @@ DATASETS = {
     "dataset_b": Path("dataset_b"),
 }
 
-OUTPUT_DIR = Path("analysis")
+OUTPUT_DIR = Path("version_1/outputs")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 

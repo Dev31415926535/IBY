@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 
 
 DATASET = Path("dataset_a")
-OUTPUT_FILE = Path("session_summary.txt")
+OUTPUT_FILE = Path("version_1/outputs/session_summary.txt")
 
 
 def extract_domain(event):
