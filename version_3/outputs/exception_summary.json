@@ -1,0 +1,192 @@
+{
+  "generated_at": "2026-09-18T18:48:13.222791",
+  "total_patterns": 7,
+  "patterns": [
+    {
+      "category": "ui_timeout",
+      "description": "UI timeout errors when waiting for DOM elements (2 occurrences)",
+      "frequency": 2,
+      "examples": [
+        {
+          "timestamp": "2026-09-18T10:30:45Z",
+          "error_message": "Timeout 30000ms exceeded waiting for selector '#btn-pi-ok'",
+          "selector": "#btn-pi-ok",
+          "field_name": null,
+          "portal_response": null
+        },
+        {
+          "timestamp": "2026-09-18T10:36:15Z",
+          "error_message": "Timeout 20000ms exceeded waiting for element to be visible",
+          "selector": "#pi-note",
+          "field_name": null,
+          "portal_response": null
+        }
+      ],
+      "suggested_fixes": [
+        "Increase Playwright timeout for this selector",
+        "Add retry logic with exponential backoff",
+        "Check if element is conditionally rendered based on business rules",
+        "Add explicit wait for specific network state before interaction"
+      ],
+      "target_risks": [
+        "R-03",
+        "R-06"
+      ]
+    },
+    {
+      "category": "missing_dom_element",
+      "description": "Missing DOM elements or selector failures (2 occurrences)",
+      "frequency": 2,
+      "examples": [
+        {
+          "timestamp": "2026-09-18T10:31:12Z",
+          "error_message": "Element #btn-pi-register not found in DOM",
+          "selector": "#btn-pi-register",
+          "field_name": null,
+          "portal_response": null
+        },
+        {
+          "timestamp": "2026-09-18T10:38:45Z",
+          "error_message": "Column 'item_name' not found in input spreadsheet",
+          "selector": null,
+          "field_name": "item_name",
+          "portal_response": null
+        }
+      ],
+      "suggested_fixes": [
+        "Verify selector stability in staging environment",
+        "Add fallback selector strategies (role, text, test ID)",
+        "Check if page layout has changed or if element is dynamically loaded",
+        "Add selector health check before main automation run"
+      ],
+      "target_risks": [
+        "R-01",
+        "R-02",
+        "R-04"
+      ]
+    },
+    {
+      "category": "validation_rule_trigger",
+      "description": "Validation rule triggers from portal or business logic (2 occurrences)",
+      "frequency": 2,
+      "examples": [
+        {
+          "timestamp": "2026-09-18T10:32:45Z",
+          "error_message": "Amount format invalid: must be numeric",
+          "selector": "input[name='amount']",
+          "field_name": "amount",
+          "portal_response": "validation_failed"
+        },
+        {
+          "timestamp": "2026-09-18T10:39:30Z",
+          "error_message": "Employee name format invalid: must contain valid characters",
+          "selector": "input[name='employee_name']",
+          "field_name": "employee_name",
+          "portal_response": "validation_failed"
+        }
+      ],
+      "suggested_fixes": [
+        "Encode this business rule in pre-submission validation",
+        "Add field value constraints to input schema",
+        "Create exception handling for this specific validation scenario",
+        "Document rule in operator training materials"
+      ],
+      "target_risks": [
+        "R-07",
+        "R-11"
+      ]
+    },
+    {
+      "category": "data_schema_mismatch",
+      "description": "Data schema or field mapping mismatches (1 occurrences)",
+      "frequency": 1,
+      "examples": [
+        {
+          "timestamp": "2026-09-18T10:33:20Z",
+          "error_message": "Required field 'employee_id' missing from input data",
+          "selector": null,
+          "field_name": "employee_id",
+          "portal_response": null
+        }
+      ],
+      "suggested_fixes": [
+        "Enforce canonical template with version header",
+        "Add schema validation before processing",
+        "Reject batches with column signature mismatches",
+        "Provide clear error messages for schema violations"
+      ],
+      "target_risks": [
+        "R-08"
+      ]
+    },
+    {
+      "category": "network_error",
+      "description": "Network connectivity or HTTP errors (1 occurrences)",
+      "frequency": 1,
+      "examples": [
+        {
+          "timestamp": "2026-09-18T10:34:10Z",
+          "error_message": "Network error: 503 Service Unavailable",
+          "selector": null,
+          "field_name": null,
+          "portal_response": "503 Service Unavailable"
+        }
+      ],
+      "suggested_fixes": [
+        "Add retry logic with exponential backoff",
+        "Implement circuit breaker pattern for repeated failures",
+        "Verify network connectivity and firewall rules",
+        "Add timeout configuration for network operations"
+      ],
+      "target_risks": [
+        "R-06"
+      ]
+    },
+    {
+      "category": "authentication_failure",
+      "description": "Authentication or SSO-related failures (1 occurrences)",
+      "frequency": 1,
+      "examples": [
+        {
+          "timestamp": "2026-09-18T10:35:30Z",
+          "error_message": "Authentication failed: Invalid credentials",
+          "selector": "input[name='uid']",
+          "field_name": null,
+          "portal_response": "401 Unauthorized"
+        }
+      ],
+      "suggested_fixes": [
+        "Verify service account credentials and permissions",
+        "Check SSO token refresh logic",
+        "Add authentication health check before batch processing",
+        "Implement credential rotation schedule"
+      ],
+      "target_risks": [
+        "R-15"
+      ]
+    },
+    {
+      "category": "business_logic_violation",
+      "description": "Business logic or policy violations (1 occurrences)",
+      "frequency": 1,
+      "examples": [
+        {
+          "timestamp": "2026-09-18T10:37:00Z",
+          "error_message": "Deduction amount violates company policy for this employee type",
+          "selector": null,
+          "field_name": "amount",
+          "portal_response": "policy_violation"
+        }
+      ],
+      "suggested_fixes": [
+        "Document this business rule in automation specifications",
+        "Add pre-flight validation for this condition",
+        "Create human review workflow for edge cases",
+        "Consider policy override process for exceptions"
+      ],
+      "target_risks": [
+        "R-11"
+      ]
+    }
+  ]
+}

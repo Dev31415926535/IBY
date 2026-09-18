@@ -1,0 +1,10 @@
+# Requirements for Exception Pattern Learning System
+# Python 3.10+ required
+
+# Core dependencies (minimal to ensure zero disruption)
+pandas>=1.5.0
+playwright>=1.40.0
+
+# Testing dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
